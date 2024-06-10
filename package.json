@@ -8,6 +8,7 @@
   "dependencies": {
     "@azure/functions": "^4.0.0",
     "firebase-admin": "^12.1.1",
+    "moment-timezone": "^0.5.45",
     "mqtt": "^5.7.0"
   },
   "main": "src/functions/*.js",
