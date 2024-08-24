@@ -1,0 +1,12 @@
+{
+    "bindings": [
+      {
+        "name": "D542_Data_Bridge",
+        "type": "timerTrigger",
+        "direction": "in",
+        "schedule": "*/40 * * * * *"
+      }
+    ],
+    "scriptFile": "D542_Data_Bridge.js"
+  }
+  

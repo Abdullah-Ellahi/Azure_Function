@@ -6,12 +6,16 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
+    "@azure/data-tables": "^13.2.2",
     "@azure/functions": "^4.0.0",
     "firebase-admin": "^12.1.1",
+    "googleapis": "^140.0.1",
     "moment-timezone": "^0.5.45",
-    "mqtt": "^5.7.0"
+    "mqtt": "^5.7.0",
+    "pdfkit": "^0.15.0",
+    "pdfmake": "^0.2.11"
   },
-  "main": "src/functions/*.js",
+  "main": "src/functions/*/*.js",
   "keywords": [],
   "author": "",
   "license": "ISC",

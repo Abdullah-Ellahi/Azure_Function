@@ -1,0 +1,12 @@
+{
+    "bindings": [
+      {
+        "name": "Opt_Merged_Data_Bridge",
+        "type": "timerTrigger",
+        "direction": "in",
+        "schedule": "*/30 * * * * *"
+      }
+    ],
+    "scriptFile": "Opt_Merged_Data_Bridge.js"
+  }
+  
