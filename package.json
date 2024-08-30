@@ -15,7 +15,7 @@
     "pdfkit": "^0.15.0",
     "pdfmake": "^0.2.11"
   },
-  "main": "src/functions/*/*.js",
+  "main": "src/functions/*.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
